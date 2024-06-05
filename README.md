@@ -10,4 +10,4 @@
 **5/** *convert number to reversed array of digits*
 
 ## statement 
-*i' m trying to do 100 challenge*
+*i' m trying to do 10 challenges for bigenners*
