@@ -9,5 +9,7 @@
 
 **5/** *convert number to reversed array of digits*
 
+**6/...10/** *you will see description of challenge in his file*
+
 ## statement 
 *i' m trying to do 10 challenges for bigenners*
